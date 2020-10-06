@@ -1,0 +1,24 @@
+div.layout{
+    margin:0 auto;
+    width:800px;
+    font-family: 'Roboto', sans-serif;
+
+}  
+div.layout h1{
+    border-bottom: 2px solid grey;
+    padding-bottom: 10px;
+
+}
+div.layout li{
+    margin:0 auto;
+    margin-top: 10px;
+}
+
+img.brood{
+    float: bottom;
+
+}
+div.layout h2{
+    border-bottom: 2px solid grey;
+    padding-bottom: 10px;
+}
